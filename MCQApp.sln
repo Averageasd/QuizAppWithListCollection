@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCQApp", "MCQApp\MCQApp.csproj", "{980DB2C9-0973-4953-8305-D22E646CC7AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizData", "QuizData\QuizData.csproj", "{2B7028CB-F734-40A6-907E-656720ACD6B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{980DB2C9-0973-4953-8305-D22E646CC7AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980DB2C9-0973-4953-8305-D22E646CC7AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980DB2C9-0973-4953-8305-D22E646CC7AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980DB2C9-0973-4953-8305-D22E646CC7AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B7028CB-F734-40A6-907E-656720ACD6B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B7028CB-F734-40A6-907E-656720ACD6B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B7028CB-F734-40A6-907E-656720ACD6B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B7028CB-F734-40A6-907E-656720ACD6B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA2AFC01-CB80-47B2-86B3-A0839CE94637}
+	EndGlobalSection
+EndGlobal

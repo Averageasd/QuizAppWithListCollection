@@ -1,0 +1,10 @@
+C:\Users\nhuyn\source\repos\MCQApp\MCQApp\bin\Debug\MCQApp.exe.config
+C:\Users\nhuyn\source\repos\MCQApp\MCQApp\bin\Debug\MCQApp.exe
+C:\Users\nhuyn\source\repos\MCQApp\MCQApp\bin\Debug\MCQApp.pdb
+C:\Users\nhuyn\source\repos\MCQApp\MCQApp\obj\Debug\MCQApp.csproj.AssemblyReference.cache
+C:\Users\nhuyn\source\repos\MCQApp\MCQApp\obj\Debug\MCQApp.csproj.CoreCompileInputs.cache
+C:\Users\nhuyn\source\repos\MCQApp\MCQApp\obj\Debug\MCQApp.exe
+C:\Users\nhuyn\source\repos\MCQApp\MCQApp\obj\Debug\MCQApp.pdb
+C:\Users\nhuyn\source\repos\MCQApp\MCQApp\bin\Debug\QuizData.dll
+C:\Users\nhuyn\source\repos\MCQApp\MCQApp\bin\Debug\QuizData.pdb
+C:\Users\nhuyn\source\repos\MCQApp\MCQApp\obj\Debug\MCQApp.csproj.Up2Date

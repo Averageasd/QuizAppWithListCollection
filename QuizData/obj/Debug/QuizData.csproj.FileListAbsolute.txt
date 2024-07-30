@@ -1,0 +1,6 @@
+C:\Users\nhuyn\source\repos\MCQApp\QuizData\bin\Debug\QuizData.dll
+C:\Users\nhuyn\source\repos\MCQApp\QuizData\bin\Debug\QuizData.pdb
+C:\Users\nhuyn\source\repos\MCQApp\QuizData\obj\Debug\QuizData.csproj.AssemblyReference.cache
+C:\Users\nhuyn\source\repos\MCQApp\QuizData\obj\Debug\QuizData.csproj.CoreCompileInputs.cache
+C:\Users\nhuyn\source\repos\MCQApp\QuizData\obj\Debug\QuizData.dll
+C:\Users\nhuyn\source\repos\MCQApp\QuizData\obj\Debug\QuizData.pdb
