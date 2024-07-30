@@ -9,3 +9,6 @@ the correct answer. If user's question match, they will receive 10 points. After
 ## Why
 I built this project to practice creating and designing OOP system. 
 Most importantly, I cemented my understanding of C# Collections.
+
+## Note
+Note that I hardcoded data in the class QuizSystem instead of taking users' input. I just wanted to practice OOP and C# Collections so I just needed to have some dummy data that I could work with. 
